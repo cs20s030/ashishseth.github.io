@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ashish Seth"
   avatar           : "ashishseth_profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Interest: Self-Supervised Learning, Speech Recognition, Audio Classification"
+  location         : "Uttar Pradesh, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=aBn1e34AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
